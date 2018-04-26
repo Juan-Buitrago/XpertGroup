@@ -26,24 +26,37 @@ namespace XpertGroup.Helpers
             }
             catch (FileNotFoundException)
             {
-                System.Console.Write("Oops, Ocurrio un problema al intentar acceder al archivo");
+                System.Console.WriteLine("Oops, Ocurrio un problema al intentar acceder al archivo");
             }
             catch (Exception e)
             {
-                System.Console.Write($"Oops, Ocurrio un problema: {e.Message}");
+                System.Console.WriteLine($"Oops, Ocurrio un problema: {e.Message}");
             }
             return data;
         }
 
         public static void WriteFileForStringList(List<Mammal> mammals, string path)
         {
-            using (FileStream fs = new FileStream(path, FileMode.OpenOrCreate))
+            try
             {
-                foreach (var mammal in mammals)
+                using (FileStream fs = new FileStream(path, FileMode.OpenOrCreate))
                 {
-                    string name = $"{mammal.name}\n";
-                    fs.Write(Encoding.UTF8.GetBytes(name), 0, name.Length);
+                    foreach (var mammal in mammals)
+                    {
+                        string name = $"{mammal.name}\n";
+                        fs.Write(Encoding.UTF8.GetBytes(name), 0, name.Length);
+                    }
+                    System.Console.WriteLine($"Se ha generado un nuevo fichero en la siguiente ruta:{fs.Name}");
                 }
+
+            }
+            catch (FileNotFoundException)
+            {
+                System.Console.WriteLine("Oops, Ocurrio un problema al intentar acceder al archivo");
+            }
+            catch (Exception e)
+            {
+                System.Console.WriteLine($"Oops, Ocurrio un problema: {e.Message}");
             }
         }
     }

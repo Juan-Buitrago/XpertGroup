@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/juan-buitrago/Projects/XpertGroup/XpertGroup/XpertGroup.csproj",
+      "projectUniqueName": "/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/XpertGroup.csproj",
       "projectName": "XpertGroup",
-      "projectPath": "/Users/juan-buitrago/Projects/XpertGroup/XpertGroup/XpertGroup.csproj",
+      "projectPath": "/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/XpertGroup.csproj",
       "packagesPath": "/Users/juan-buitrago/.nuget/packages/",
-      "outputPath": "/Users/juan-buitrago/Projects/XpertGroup/XpertGroup/obj",
+      "outputPath": "/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/obj",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

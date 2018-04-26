@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{1640EBA7-9245-42CB-AE05-76035F153CEA}|Default">
+  <MonoDevelop.Ide.ItemProperties.XpertGroup PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="XpertGroup/Logic/Bussines.cs">
+    <Files>
+      <File FileName="XpertGroup/Program.cs" Line="21" Column="6" />
+      <File FileName="XpertGroup/Logic/Bussines.cs" Line="35" Column="121" />
+      <File FileName="XpertGroup/Helpers/FileHelper.cs" Line="53" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

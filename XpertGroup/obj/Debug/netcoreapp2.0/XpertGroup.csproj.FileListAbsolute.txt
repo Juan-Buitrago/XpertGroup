@@ -9,3 +9,14 @@
 /Users/juan-buitrago/Projects/XpertGroup/XpertGroup/bin/Debug/netcoreapp2.0/XpertGroup.pdb
 /Users/juan-buitrago/Projects/XpertGroup/XpertGroup/obj/Debug/netcoreapp2.0/XpertGroup.dll
 /Users/juan-buitrago/Projects/XpertGroup/XpertGroup/obj/Debug/netcoreapp2.0/XpertGroup.pdb
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/bin/Debug/netcoreapp2.0/XpertGroup.deps.json
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/bin/Debug/netcoreapp2.0/XpertGroup.runtimeconfig.json
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/bin/Debug/netcoreapp2.0/XpertGroup.runtimeconfig.dev.json
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/bin/Debug/netcoreapp2.0/XpertGroup.dll
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/bin/Debug/netcoreapp2.0/XpertGroup.pdb
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/obj/Debug/netcoreapp2.0/XpertGroup.csprojResolveAssemblyReference.cache
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/obj/Debug/netcoreapp2.0/XpertGroup.csproj.CoreCompileInputs.cache
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/obj/Debug/netcoreapp2.0/XpertGroup.AssemblyInfoInputs.cache
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/obj/Debug/netcoreapp2.0/XpertGroup.AssemblyInfo.cs
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/obj/Debug/netcoreapp2.0/XpertGroup.dll
+/Users/juan-buitrago/Documents/XpertGroup/XpertGroup/obj/Debug/netcoreapp2.0/XpertGroup.pdb
